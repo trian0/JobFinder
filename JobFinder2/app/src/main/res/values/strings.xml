@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Job Finder</string>
+    <string name="quer_se_cadastrar_como">Quer se cadastrar como:</string>
+    <string name="empresa">EMPRESA</string>
+    <string name="pessoa">PESSOA</string>
+    <string name="nome_da_empresa">Nome da empresa:</string>
+    <string name="cnpj">CNPJ:</string>
+    <string name="descri_o_da_empresa">Descrição da empresa:</string>
+    <string name="nome_do_usu_rio">Nome do usuário:</string>
+    <string name="cpf">CPF:</string>
+    <string name="data_de_nascimento">Data de nascimento:</string>
+    <string name="hist_rico_acad_mico">Histórico Acadêmico:</string>
+    <string name="curriculo">Curriculo</string>
+    <string name="email">Email:</string>
+    <string name="j_tenho_conta">Já tenho conta</string>
+</resources>
